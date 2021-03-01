@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav"
+    app:startDestination="@id/maintenanceListFragment"
+    >
+
+    <fragment
+        android:id="@+id/maintenanceListFragment"
+        android:name="com.app.unit.unitsa.ui.maintenancelist.MaintenanceListFragment"
+        android:label="fragment_maintenance_list"
+        tools:layout="@layout/fragment_maintenance_list"
+        >
+        <action
+            android:id="@+id/action_maintenanceListFragment_to_maintenanceDetailsFragment"
+            app:destination="@id/maintenanceDetailsFragment"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/maintenanceDetailsFragment"
+        android:name="com.app.unit.unitsa.ui.maintenancedetails.MaintenanceDetailsFragment"
+        android:label="MaintenanceDetailsFragment"
+        tools:layout="@layout/maintenance_details"
+        >
+        <action
+            android:id="@+id/action_maintenanceDetailsFragment_to_createMaintenanceFragment"
+            app:destination="@id/createMaintenanceFragment"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/createMaintenanceFragment"
+        android:name="com.app.unit.unitsa.ui.createmaintenancereport.CreateMaintenanceFragment"
+        android:label="fragment_create_maintenance"
+        tools:layout="@layout/fragment_create_maintenance"
+        />
+</navigation>

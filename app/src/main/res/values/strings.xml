@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="please_enter_mobile_number">Please enter mobile number</string>
+    <string name="please_enter_a_valid_mobile_number">Please enter a valid mobile number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="visit_date">Visit date</string>
+    <string name="tenant_name">Tenant name</string>
+    <string name="work_hours">Work hours</string>
+    <string name="to">To</string>
+    <string name="items">Items</string>
+    <string name="add_report">Add report</string>
+    <string name="request_title">Request title</string>
+    <string name="description">Description</string>
+    <string name="remove">Remove</string>
+    <string name="add_more">Add more</string>
+</resources>

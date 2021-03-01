@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_margin_xxxlarge">60dp</dimen>
+    <dimen name="screen_margin_xxlarge">48dp</dimen>
+    <dimen name="screen_margin_xlarge">32dp</dimen>
+    <dimen name="screen_margin_large">24dp</dimen>
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="screen_margin_mid">10dp</dimen>
+    <dimen name="screen_margin_small">8dp</dimen>
+    <dimen name="screen_margin_micro">4dp</dimen>
+    <dimen name="screen_margin_nano">2dp</dimen>
+
+    <dimen name="fab_size">50dp</dimen>
+    <dimen name="max_height_message">150dp</dimen>
+
+    <dimen name="stepper_screen_width">100dp</dimen>
+    <dimen name="stepper_screen_height">40dp</dimen>
+
+    <dimen name="default_corner_radius">25dp</dimen>
+    <dimen name="message_corner_radius">30dp</dimen>
+    <dimen name="mid_corner_radius">10dp</dimen>
+    <dimen name="tab_corner_radius">12dp</dimen>
+    <dimen name="small_corner_radius">5dp</dimen>
+
+
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_mid">16sp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+
+    <dimen name="my_default_peek_height">550dp</dimen>
+
+    <!-- drawables dimens -->
+    <dimen name="drawable_size">24dp</dimen>
+    <dimen name="drawable_size_big">32dp</dimen>
+    <dimen name="drawable_size_toolbar">100dp</dimen>
+    <dimen name="drawable_app_icon_size">46dp</dimen>
+
+    <!-- chat -->
+    <dimen name="chat_order_width">280dp</dimen>
+    <dimen name="voice_message_width">320dp</dimen>
+    <dimen name="text_message_width">250dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Title</string>
+    <string name="more_details">More details</string>
+    <string name="from">From</string>
+    <string name="item_name">Item name</string>
+    <string name="item_price">Item price</string>
+    <string name="visit_date_time">Visit date/time</string>
+    <string name="make_as_completed">Make As Completed</string>
+    <string name="property">Property</string>
+    <string name="unit">Unit</string>
+</resources>
